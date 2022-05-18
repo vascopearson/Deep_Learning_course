@@ -2,7 +2,7 @@
 
 ## 🗣️ About this project
 
-Project for the Deep Learning Course @ Instituto Superior Técnico<br/>.
+Project for the Deep Learning Course @ Instituto Superior Técnico.<br/>
 
 In this project several Deep Learning algorithms where implemented, ranging from a simple Perceptron to Convolutional Neural Networks (CNN's), Recurrent Neural Networks (RNN's), Long Short Term Memory Networks (LSTM's), Attention mechanisms and more.
 
